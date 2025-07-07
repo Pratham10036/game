@@ -1,0 +1,2 @@
+def better():
+    pass
