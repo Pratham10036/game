@@ -101,7 +101,11 @@ if (body?.summarize_data?.repository_data) {
 
 
 
+
+
+
     
+
     <h3>Operational Summary</h3>
     <div class="summary-container" style="background-color: #f7f7f9; border: 1px solid #e1e1e8; padding: 15px; border-radius: 5px;">
       ${formatSummaryToHtml(repoSummary, "No operational summary available.")}
