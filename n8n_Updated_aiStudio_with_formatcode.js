@@ -47,6 +47,15 @@ if (body?.summarize_data?.repository_data) {
       const trimmedLine = line.trim();
 
       // 2. Check for list items
+      
+      
+      
+      
+      
+      
+      
+      
+      
       if (trimmedLine.startsWith("- ")) {
         if (!inList) {
           resultHtml.push('<ul style="padding-left: 20px;">');
