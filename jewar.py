@@ -4,3 +4,4 @@ print(f"Palindrome check: {'racecar'[::-1] == 'racecar'}")
 
 
 
+asdkjfkljklasdjfkl;
